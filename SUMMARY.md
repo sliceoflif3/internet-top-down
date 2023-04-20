@@ -13,3 +13,6 @@
 * [4. The Network Layer: Data Plane](4.-the-network-layer-data-plane/README.md)
   * [4.1 Overview of Network Layer](4.-the-network-layer-data-plane/4.1-overview-of-network-layer.md)
   * [4.2 What’s Inside a Router?](4.-the-network-layer-data-plane/4.2-whats-inside-a-router.md)
+  * [4.3 The Internet Protocol (IP): IPv4, Addressing, IPv6, and More](4.-the-network-layer-data-plane/4.3-the-internet-protocol-ip-ipv4-addressing-ipv6-and-more.md)
+  * [4.4 Generalized Forwarding and SDN](4.-the-network-layer-data-plane/4.4-generalized-forwarding-and-sdn.md)
+  * [4.5 Middleboxes](4.-the-network-layer-data-plane/4.5-middleboxes.md)
