@@ -16,3 +16,4 @@
   * [4.3 The Internet Protocol (IP): IPv4, Addressing, IPv6, and More](4.-the-network-layer-data-plane/4.3-the-internet-protocol-ip-ipv4-addressing-ipv6-and-more.md)
   * [4.4 Routing Algorithms](4.-the-network-layer-data-plane/4.4-routing-algorithms.md)
   * [4.5 Routing in the Internet](4.-the-network-layer-data-plane/4.5-routing-in-the-internet.md)
+  * [4.6 Broadcast and Multicast Routing](4.-the-network-layer-data-plane/4.6-broadcast-and-multicast-routing.md)
