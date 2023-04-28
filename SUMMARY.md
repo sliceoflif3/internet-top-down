@@ -24,3 +24,4 @@
   * [5.4 Switched Local Area Networks](5.-the-link-layer-links-access-networks-and-lans/5.4-switched-local-area-networks.md)
   * [5.5 Link Virtualization: A Network as a Link Layer](5.-the-link-layer-links-access-networks-and-lans/5.5-link-virtualization-a-network-as-a-link-layer.md)
   * [5.6 Data Center Networking](5.-the-link-layer-links-access-networks-and-lans/5.6-data-center-networking.md)
+  * [5.7 Retrospective: A Day in the Life of a Web Page Request](5.-the-link-layer-links-access-networks-and-lans/5.7-retrospective-a-day-in-the-life-of-a-web-page-request.md)
