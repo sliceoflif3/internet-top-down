@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Have a picture of Azusa, idk what to put here](README.md)
+* [internet](README.md)
 * [1. Computer network and the internet](1.-computer-network-and-the-internet/README.md)
   * [1.1 What is the internet?](1.-computer-network-and-the-internet/1.1-what-is-the-internet.md)
   * [1.2 The Network edge](1.-computer-network-and-the-internet/1.2-the-network-edge.md)

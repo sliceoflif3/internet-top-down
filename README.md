@@ -1,5 +1,10 @@
-# Have a picture of Azusa, idk what to put here
+---
+cover: .gitbook/assets/image.png
+coverY: 0
+---
 
-Oh and btw the book that I'm based this on is Computer Networking: A Top-down Approach 8th edition.
+# internet
 
-![](.gitbook/assets/IMG\_20230417\_000719.jpg)
+Computer Networking: A Top-down Approach 6th edition.
+
+{% embed url="https://www.youtube.com/watch?v=BnkhBwzBqlQ" %}
