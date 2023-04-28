@@ -19,3 +19,4 @@
   * [4.6 Broadcast and Multicast Routing](4.-the-network-layer-data-plane/4.6-broadcast-and-multicast-routing.md)
 * [5. The Link Layer: Links, Access Networks, and LANS](5.-the-link-layer-links-access-networks-and-lans/README.md)
   * [5.1 Introduction to the Link Layer](5.-the-link-layer-links-access-networks-and-lans/5.1-introduction-to-the-link-layer.md)
+  * [5.2 Error-Detection and -Correction Techniques](5.-the-link-layer-links-access-networks-and-lans/5.2-error-detection-and-correction-techniques.md)
