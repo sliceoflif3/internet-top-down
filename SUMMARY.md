@@ -10,6 +10,7 @@
   * [1.6 Network Under Attack](1.-computer-network-and-the-internet/1.6-network-under-attack.md)
 * [2. Application Layer](2.-application-layer/README.md)
   * [2.1 Principles of Network Applications](2.-application-layer/2.1-principles-of-network-applications.md)
+  * [2.2 The Web and HTTP](2.-application-layer/2.2-the-web-and-http.md)
 * [4. The Network Layer](4.-the-network-layer-data-plane/README.md)
   * [4.1 Overview of Network Layer](4.-the-network-layer-data-plane/4.1-overview-of-network-layer.md)
   * [4.2 What’s Inside a Router?](4.-the-network-layer-data-plane/4.2-whats-inside-a-router.md)
